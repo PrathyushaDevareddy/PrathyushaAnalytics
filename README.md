@@ -1,4 +1,4 @@
-# Hi, I'm Prathyusha Devareddy
+  # Hi, I'm Prathyusha Devareddy
 
 Business Analytics graduate focused on Excel, SQL, Power BI, and business reporting.
 
@@ -50,7 +50,7 @@ Skills shown:
 
 | Project | Tools | Focus |
 |---|---|---|
-| Construction Project Controls Analytics | Excel, SQL, Power BI | Cost, schedule, resource, and procurement reporting |
+| [Construction Project Controls Analytics](https://github.com/PrathyushaAnalytics/construction-project-controls-analytics) | Excel, SQL, Power BI-ready data | Cost, schedule, resource, and procurement reporting |
 | Ecommerce Ad Campaign Analysis | Excel, Power BI | Advertising performance, ROAS, ACOS, and campaign optimization |
 
 ## About Me
