@@ -58,3 +58,7 @@ Skills shown:
 I recently completed my Master's in Business Analytics from the University of Louisville. I am interested in roles where I can use data to improve reporting, operations, planning, and business decisions.
 
 My goal is to keep building practical projects that show not only technical skills, but also business thinking and communication.
+
+## Customer Growth & Revenue Analytics
+
+[Open the project](customer-growth-analytics/README.md) — Retail source data downloaded and profiled. Includes a reproducible Python workflow, data dictionary and data-quality report. SQL analysis, Power BI and separate digital/CRM modules are planned.

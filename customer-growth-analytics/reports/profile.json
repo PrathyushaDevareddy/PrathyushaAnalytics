@@ -1,0 +1,48 @@
+{
+  "source_url": "https://archive.ics.uci.edu/static/public/502/online%2Bretail%2Bii.zip",
+  "workbook_sha256": "bcbe73b35f5b7babf197fb0cb983a11f5d9ff929078d4aa53d171b1f2df2e980",
+  "sheet_rows": {
+    "Year 2009-2010": 525461,
+    "Year 2010-2011": 541910
+  },
+  "date_min": "2009-12-01 07:45:00",
+  "date_max": "2011-12-09 12:50:00",
+  "metrics": {
+    "rows": 1067371,
+    "distinct_invoice_ids": 53628,
+    "distinct_customer_ids": 5942,
+    "distinct_stock_codes": 5305,
+    "countries": 43,
+    "cancellation_lines": 19494,
+    "cancellation_invoice_ids": 8292,
+    "negative_quantity_lines": 22950,
+    "zero_quantity_lines": 0,
+    "negative_price_lines": 5,
+    "zero_price_lines": 6202,
+    "exact_duplicate_excess_rows": 34335,
+    "missing_customer_id_lines": 243007,
+    "preliminary_positive_purchase_lines": 1041670,
+    "identified_customers_with_positive_purchases": 5878,
+    "identified_customers_with_two_or_more_positive_invoices": 4255
+  },
+  "missing_by_column": {
+    "Invoice": 0,
+    "StockCode": 0,
+    "Description": 4382,
+    "Quantity": 0,
+    "InvoiceDate": 0,
+    "Price": 0,
+    "Customer ID": 243007,
+    "Country": 0
+  },
+  "dtypes": {
+    "Invoice": "object",
+    "StockCode": "object",
+    "Description": "object",
+    "Quantity": "int64",
+    "InvoiceDate": "datetime64[ns]",
+    "Price": "float64",
+    "Customer ID": "float64",
+    "Country": "object"
+  }
+}
